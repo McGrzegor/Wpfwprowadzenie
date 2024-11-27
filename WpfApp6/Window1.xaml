@@ -31,3 +31,4 @@
         <Button Margin="20">Przycisk</Button>
     </WrapPanel>
 </Window>
+Zalezne od orientacji w bok albo w dół
