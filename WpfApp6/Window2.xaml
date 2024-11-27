@@ -24,3 +24,5 @@
         <Button Margin="20">Przycisk</Button>
     </UniformGrid>
 </Window>
+
+robi automatycznie row i colum
